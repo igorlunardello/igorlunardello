@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @igorlunardello
+- 👀 I’m interested in Java and UX Design
+- 🌱 I’m currently learning JAVA, HTML, CSS, JAVASCRIPT, SQL, ADOBE.
+- 📫 How to reach me: Send me an email on: igorlunardello@gmail.com
